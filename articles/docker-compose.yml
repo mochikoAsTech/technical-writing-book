@@ -1,0 +1,8 @@
+version: '3'
+services:
+  review:
+    image: vvakame/review:5.8
+    volumes:
+      - .:/technical-writing-book
+    build: .
+    working_dir: /technical-writing-book
