@@ -28,3 +28,8 @@ mochikoAsTech
 === レビュアー
 
  * やさしい誰か
+
+=== 参考文献
+
+ * ずかん自転車―見ながら学習調べてなっとく - 森下昌市郎
+ ** @<href>{https://direct.gihyo.jp/view/item/000000003092}
