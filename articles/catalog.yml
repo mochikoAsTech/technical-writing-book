@@ -4,6 +4,7 @@ PREDEF:
   - introduction.re
 
 CHAPS:
+  - before-writing.re
   - writing.re
   - translate.re
   - readme.re
