@@ -22,7 +22,7 @@ bookname: technical-writing-book
 language: ja
 
 # 書名
-booktitle: {name: "テクニカルライティング本", file-as: "テクニカルライティングボン"}
+booktitle: {name: "読み手につたわる文章が書けるテクニカルライティング", file-as: "ヨミテニツタワルブンショウガカケルテクニカルライティング"}
 subtitle: {name: "仮称", file-as: "カショウ"}
 
 # 著者名。「, 」で区切って複数指定できる

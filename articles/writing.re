@@ -321,3 +321,6 @@ https://www.itmedia.co.jp/news/articles/2205/10/news123.html
 URLをコピーペーストするイメージで「貼る」を使いたくなるかもしれませんが、Slackでリンクを教えてあげるときは「URL貼っときますね」だし、「商品一覧から詳細ページにリンクを張る」ときは「張る」だと思っています。
 
 @<href>{https://twitter.com/mainichi_kotoba/status/1769229909283778901}
+
+== 「無駄なことをしたくない」から何もしないと何も書けない
+

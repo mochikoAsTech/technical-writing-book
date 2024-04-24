@@ -39,3 +39,5 @@ mochikoAsTech
  ** @<href>{https://direct.gihyo.jp/view/item/000000003092}
  * ことばから誤解が生まれる 「伝わらない日本語」見本帳 - 飯間浩明
  ** @<href>{https://www.chuko.co.jp/ebook/2013/07/514091.html}
+ * Software Design 2024年4月号 - Software Design編集部
+ ** @<href>{https://gihyo.jp/magazine/SD/archive/2024/202404}
