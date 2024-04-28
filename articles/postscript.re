@@ -31,6 +31,8 @@ mochikoAsTech
 
 === 参考文献
 
+ * センスは知識からはじまる - 水野学
+ ** @<href>{https://publications.asahi.com/product/15849.html}
  * 日本語スタイルガイド(第3版) - 一般財団法人テクニカルコミュニケーター協会
  ** @<href>{https://jtca.org/learn-tc/publication/guide_jsg/}
  * 論理が伝わる 世界標準の「書く技術」 - 倉島保美
