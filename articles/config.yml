@@ -22,8 +22,8 @@ bookname: technical-writing-book
 language: ja
 
 # 書名
-booktitle: {name: "読み手につたわる文章が書けるテクニカルライティング", file-as: "ヨミテニツタワルブンショウガカケルテクニカルライティング"}
-subtitle: {name: "仮称", file-as: "カショウ"}
+booktitle: {name: "テクニカルライティング", file-as: "テクニカルライティング"}
+subtitle: {name: "読み手につたわる文章", file-as: "ヨミテニツタワルブンショウ"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "mochikoAsTech", file-as: "モチコアズテック"}]
