@@ -14,7 +14,7 @@
 mochiko(nickname)
 Living in Japan(Tokyo)
 Presented at Tech Seminar vol.22,vol.23
-Loves : Flutter,Nuxt.js,Kubernetes
+Loves : Flutter,Nuxt,Kubernetes
 //}
 
 この自己紹介文は、どれも単語と単語の間にはスペースが1つ入るという原則を守れていません。重要なのは@<ttb>{記号はスペースの代わりにはならない}ということです。間違いに気付くため、括弧やカンマやピリオドといった記号を消してみましょう。
@@ -23,7 +23,7 @@ Loves : Flutter,Nuxt.js,Kubernetes
 mochikonickname
 Living in JapanTokyo
 Presented at Tech Seminar vol22vol23
-Loves  FlutterNuxt.jsKubernetes
+Loves  FlutterNuxtKubernetes
 //}
 
 あちこちで単語が繋がってしまったり、逆にスペースが2つ続いてしまったりしています。では単語と単語の間に1つだけスペースを入れた上で記号を元に戻して、正しい英文に直してみましょう。
@@ -32,7 +32,7 @@ Loves  FlutterNuxt.jsKubernetes
 mochiko (nickname)
 Living in Japan (Tokyo)
 Presented at Tech Seminar vol. 22, vol. 23
-Loves: Flutter, Nuxt.js, Kubernetes
+Loves: Flutter, Nuxt, Kubernetes
 //}
 
 できました！括弧書きの手前には半角スペースが入りますし、volumeの略である@<ttb>{vol.}と数字の間や、区切り文字であるカンマの後ろにもスペースが入ります。逆に@<ttb>{Loves}とコロンの間にあったスペースはなくなりました。

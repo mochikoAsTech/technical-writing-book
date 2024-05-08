@@ -39,7 +39,8 @@ mochikoAsTech
 
  * otapo
  * statditto
-
+ * 高橋征義 @takahashim
+ 
 === 参考文献
 
  * センスは知識からはじまる - 水野学
