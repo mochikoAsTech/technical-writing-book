@@ -40,7 +40,7 @@ mochikoAsTech
  * otapo
  * statditto
  * 高橋征義 @takahashim
- 
+
 === 参考文献
 
  * センスは知識からはじまる - 水野学
@@ -55,3 +55,5 @@ mochikoAsTech
  ** @<href>{https://www.chuko.co.jp/ebook/2013/07/514091.html}
  * Software Design 2024年4月号 - Software Design編集部
  ** @<href>{https://gihyo.jp/magazine/SD/archive/2024/202404}
+ * 毎日ことばplus – 毎日新聞
+ ** @<href>{https://salon.mainichi-kotoba.jp/}
