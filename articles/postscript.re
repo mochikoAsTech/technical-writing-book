@@ -37,7 +37,8 @@ mochikoAsTech
 
 === レビュアー
 
- * やさしい誰か
+ * otapo
+ * statditto
 
 === 参考文献
 
