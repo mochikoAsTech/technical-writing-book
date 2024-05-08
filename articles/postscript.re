@@ -45,6 +45,8 @@ mochikoAsTech
  * statditto
  * ガブリエル
  * 高橋征義 @takahashim
+ * Sato Shoco
+ * Nkzn
 
 === 参考文献
 
