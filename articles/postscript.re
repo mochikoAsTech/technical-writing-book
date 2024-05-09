@@ -49,6 +49,7 @@ mochikoAsTech
  * 高橋征義 @takahashim
  * Shoco Sato
  * Nkzn
+ * KUBOTA Yuji
 
 //pagebreak
 
